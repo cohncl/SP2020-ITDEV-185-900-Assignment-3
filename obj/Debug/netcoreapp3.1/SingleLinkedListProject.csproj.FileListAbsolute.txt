@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\bin\Debug\netcoreapp3.1\SingleLinkedListProject.exe
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\bin\Debug\netcoreapp3.1\SingleLinkedListProject.deps.json
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\bin\Debug\netcoreapp3.1\SingleLinkedListProject.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\bin\Debug\netcoreapp3.1\SingleLinkedListProject.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\bin\Debug\netcoreapp3.1\SingleLinkedListProject.dll
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\bin\Debug\netcoreapp3.1\SingleLinkedListProject.pdb
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\obj\Debug\netcoreapp3.1\SingleLinkedListProject.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\obj\Debug\netcoreapp3.1\SingleLinkedListProject.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\obj\Debug\netcoreapp3.1\SingleLinkedListProject.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\obj\Debug\netcoreapp3.1\SingleLinkedListProject.dll
+C:\Users\Neil Michaels\source\repos\SingleLinkedListProject\obj\Debug\netcoreapp3.1\SingleLinkedListProject.pdb
